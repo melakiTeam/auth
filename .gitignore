@@ -1,0 +1,21 @@
+spring-server-generated.zip
+target
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### cmapi log? ###
+*.alg
+dpx-rest-api/.settings
+dpx-rest-api/.sts4-cache
+*.classpath
+*.factorypath
+*.project
+dpx-rest-e2e-test/.settings
+.settings
+dpx-rest-backend/.checkstyle
+.checkstyle
+dpx-rest-api-client/bin
